@@ -11,7 +11,7 @@ Repository contenant le code utilisé dans un module/boitier d'un capteur. Voir 
 Repository contenant le code utilisé dans la partie Carte centrale. Voir le manuel pour l'installation/le déploiement.
 
 ## Serveur central
-Repository contenant le code utilisé pour le site web/l'API. A déployer sur un serveur. Voir le manuel l'installation/le déploiement.
+Repository contenant le code utilisé pour le site web/l'API. A déployer sur un serveur. Voir le manuel pour l'installation/le déploiement.
 
 
 ## Contact
